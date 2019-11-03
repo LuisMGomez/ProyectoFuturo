@@ -28,7 +28,7 @@ public class ProyectoFuturo {
         }
     }
 
-    static public String veredicto(String valor1, String valor2) {
+    static private String veredicto(String valor1, String valor2) {
         // valor1= numero de modulos matriculados
         // valor2= horas de estudio semanales
 
