@@ -7,7 +7,7 @@ package proyectofuturo;
 
 /**
  *
- * @author Luis Manuel
+ * @author Luis Manuel Gomez
  */
 public class ProyectoFuturo {
 
